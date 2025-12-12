@@ -3,6 +3,17 @@
 Welcome to the repository for my 30 Days of Voice Agents Challenge\! This project documents the journey of building a sophisticated, voice-activated conversational AI from the ground up. Over the course of this challenge, a simple web page evolves into a fully interactive voice agent capable of holding context-aware conversations.
 
 -----
+## Try the project here 
+```
+https://ai-voice-agent-nnzw.onrender.com/
+```
+Pre-requisites :
+1. Murf AI api key
+2. Assembly AI api key
+3. Gemini AI api key
+4. Serpapi api key
+
+-----
 
 ## 🤖 About The Project
 
